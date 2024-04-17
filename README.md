@@ -1,6 +1,5 @@
-# ArticlePreviewComponent
 # Frontend Mentor - Article preview component solution
-# Live site URL: 
+# Live site URL: https://mbd89.github.io/ArticlePreviewComponent/
 
 This is a solution to the [Article preview component challenge on Frontend Mentor]
 
